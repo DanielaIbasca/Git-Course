@@ -1,4 +1,4 @@
 
-- [Pagina Oficial de Git](https://git-scm.com/)
+- [Git Official Website](https://git-scm.com/)
 
-- [Instalar Git](https://git-scm.com/)
+- [Git Installation](https://git-scm.com/)
