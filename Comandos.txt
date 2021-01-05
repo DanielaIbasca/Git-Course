@@ -1,0 +1,10 @@
+cd
+ls
+git init   
+git clone 
+git add .
+git config user.name  
+git config user.email
+git pull 
+git commit -m ""
+git push -u origin master
